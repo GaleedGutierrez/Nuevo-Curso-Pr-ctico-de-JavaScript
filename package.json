@@ -1,0 +1,29 @@
+{
+  "name": "nuevo-curso-practico-de-javascript",
+  "version": "1.0.0",
+  "description": "Curso de Platzi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GaleedGutierrez/Nuevo-Curso-Practico-de-JavaScript.git"
+  },
+  "keywords": [
+    "JavaScript"
+  ],
+  "author": "Galeed Gutierrez <galeedeveloper@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GaleedGutierrez/Nuevo-Curso-Practico-de-JavaScript/issues"
+  },
+  "homepage": "https://github.com/GaleedGutierrez/Nuevo-Curso-Practico-de-JavaScript#readme",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.33.1",
+    "@typescript-eslint/parser": "^5.33.1",
+    "eslint": "^8.22.0",
+    "ts-node": "^10.9.1",
+    "typescript": "^4.7.4"
+  }
+}
