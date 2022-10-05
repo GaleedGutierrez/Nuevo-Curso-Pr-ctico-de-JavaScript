@@ -18,5 +18,10 @@
         "titleBar.inactiveBackground": "#f9e64f99",
         "titleBar.inactiveForeground": "#15202b99"
     },
-    "peacock.color": "#f9e64f"
+    "peacock.color": "#f9e64f",
+    "cSpell.words": [
+        "Curso",
+        "Platzi"
+    ],
+    "cSpell.language": "en,es-ES"
 }
