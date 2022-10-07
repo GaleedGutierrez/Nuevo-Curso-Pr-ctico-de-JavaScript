@@ -13,3 +13,4 @@ console.log({
 });
 
 console.log(input.value);
+export{};
